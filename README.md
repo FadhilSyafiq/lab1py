@@ -1,4 +1,5 @@
 # Fadhil Syafiq Abdullah (312510161)
+## Membuat repository lab1py
 ## membuka terminal dengan cara windows+r lalu mengetik cmd, kemudian run cmd di admininstrator dengan cara ctrl+shift+enter
 
 # membuat hello dan saya sedang belajar python di terminal
